@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
         if (n % 2 == 0) {
             //result += " "+  n / 2.0 + ", " + 2;
-            result += "Число має бути простим";
+            result += "Число має бути непарним";
             return result;
         }
 
